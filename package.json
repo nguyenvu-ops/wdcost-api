@@ -1,1 +1,5 @@
-{"name":"wdcost-api","version":"1.0.0"}
+{
+  "name": "wdcost-api",
+  "version": "1.0.0",
+  "type": "module"
+}
