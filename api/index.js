@@ -1,1 +1,3 @@
-export default function handler(req,res){res.json({status:'WD Cost API Ready'});}
+export default function handler(req, res) {
+  res.json({ status: "WD Cost API Ready" });
+}
